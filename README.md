@@ -4,6 +4,18 @@ Working reference for design projects across media: print PDFs, signage, social 
 
 ---
 
+> **For AI agents and future sessions — read before adding anything:**
+>
+> This file is publicly shared so any designer working with an AI agent can benefit from the lessons documented here. Follow these rules strictly when updating it:
+>
+> 1. **Design only.** Every entry must be about design craft, process, or tooling. No web dev, no DevOps, no app architecture — those belong in project-specific files.
+> 2. **No names.** Never write a client name, project name, person's name, or company name anywhere in this file. Use generic descriptions instead ("a multi-page deck", "a print client", "confirmed in practice").
+> 3. **No personal references.** No tool names specific to one workflow (e.g. a specific CLI, a specific AI platform), no account names, no file paths tied to a specific machine. Write as if any designer using any AI agent will read this.
+> 4. **Lessons, not logs.** Document what changes future behavior — a discovered rule, a recurring trap, a technique that works. Don't log what happened on a specific project.
+> 5. **Keep both copies in sync.** The local copy (`DESIGN_PLAYBOOK.md`) and the GitHub copy (`design-playbook/README.md`) must always match. After editing locally, copy changes to the GitHub version and push.
+
+---
+
 ## 1. The Formula — steps for any new design request
 
 1. **Find the client folder.** Check `specs.md`, `Logos/`, `Design Examples/` first. If `specs.md` is missing or thin, build/update it from actual logo files, design examples, and brand PDFs before designing anything. Never guess brand colors/fonts when source files are available.
